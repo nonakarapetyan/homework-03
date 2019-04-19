@@ -1,0 +1,61 @@
+body{
+    margin:0px;
+    background-image: url(images/shawn-ang-1516769-unsplash.jpg);
+    background-size: cover ;
+    background-repeat: no-repeat;
+    background-position-y: 20%;
+    height:100px;
+    background-color: #F0F2F8;
+}
+.div{
+    background-color: #F0F2F8;
+}
+.img{
+    height:120px; 
+    width:120px; 
+    margin-left:130px;
+    display: inline-block;
+    vertical-align: middle;
+}
+ul,li, a{
+    display: inline-block;
+    vertical-align: middle;
+    color:black;
+    margin:10px;
+}
+.find{
+    margin:150px 20px 80px 350px;
+    color:white;
+    vertical-align: middle;
+}
+.explore{
+    color:black;
+    background-color:white;
+    text-decoration: none;
+    padding:15px 30px;
+    vertical-align: top;
+    font-size: medium;
+    margin-left:120px;
+}
+.bottom{
+    background-color: #F0F2F8;
+    width:100%;
+    padding-top: 30px;
+}
+.inside{
+    font-family: 'Roboto', sans-serif;
+    background-color: white;
+    margin-left:250px;
+    width:50%;
+    height:40%; 
+    padding:40px 40px 0px 40px;
+    font-size: 13px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+     
